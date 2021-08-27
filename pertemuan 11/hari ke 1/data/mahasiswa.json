@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Prisma Alamsyah",
+        "nim": "20090116",
+        "email": "prismaalamsyah1@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Dini Ria Safitri",
+        "nim": "20090117",
+        "email": "diniriasafitri@gmail.com",
+        "jurusan": "Akuntansi",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Cahaya Aditya Pratama",
+        "nim": "20090118",
+        "email": "cahayaadityapratama@gmail.com",
+        "jurusan": "Teknik Elektro",
+        "idDosenWali": 3
+    }
+]
